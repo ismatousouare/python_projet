@@ -6,7 +6,7 @@ Ce projet utilise flask pour manipuler des APIs
 ```
 git clone  https://github.com/ismatousouare/python_projet.git
 ```
-###Se deplacer dans le dossier du projet
+### Se deplacer dans le dossier du projet
 ```
 cd python_projet
 ```
