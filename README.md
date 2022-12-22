@@ -18,7 +18,8 @@ python3 -m venv venv
 ```
 Pour l'activer on fait
 ```
-source venv/bin/activate
+http://localhost:5000
+
 ```
 Pour installer les paquets :
 ```
