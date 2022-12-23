@@ -6,7 +6,7 @@ Ce projet utilise flask pour manipuler des APIs
 ```
 git clone  https://github.com/ismatousouare/python_projet.git
 ```
-###Se deplacer dans le dossier du projet
+### Se deplacer dans le dossier du projet
 ```
 cd python_projet
 ```
@@ -18,7 +18,8 @@ python3 -m venv venv
 ```
 Pour l'activer on fait
 ```
-source venv/bin/activate
+http://localhost:5000
+
 ```
 Pour installer les paquets :
 ```
