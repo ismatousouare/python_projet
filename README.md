@@ -16,17 +16,22 @@ Pouvez l'intaller de la manière suivante
 ```
 python3 -m venv venv 
 ```
-Pour l'activer on fait
-```
-http://localhost:5000
+Pour l'activer on fait:
 
 ```
-Pour installer les paquets :
+source venv/bin/activate
+
+```
+Pour installer les paquets 
 ```
 pip install -r  requirements.txt
 ``` 
 ### Lancement du projet
 ```
 flask --app hello run  
+```
+Pour voir le site 
+```
+http://127.0.O.1:5000
 ```
 
